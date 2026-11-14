@@ -1,0 +1,8 @@
+# Model files are stored in Hugging Face, not GitHub
+model/
+*.onnx
+*.safetensors
+*.bin
+.env
+__pycache__/
+*.pyc
