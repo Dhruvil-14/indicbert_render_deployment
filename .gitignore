@@ -1,4 +1,4 @@
-# Model files are stored in Hugging Face, not GitHub
+# Large model files are hosted on Hugging Face, not GitHub
 model/
 *.onnx
 *.safetensors
